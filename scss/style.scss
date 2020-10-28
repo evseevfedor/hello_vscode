@@ -37,6 +37,8 @@ body {
 .block {
 	&__container {
 		background-color: #eee;
+		width: 100%;
+		height: 100vh;
 	}
 
 	&__title {
