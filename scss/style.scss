@@ -1,0 +1,64 @@
+@import "_header";
+
+h1 {
+	color: lightblue;
+}
+
+body {
+	font-size: 20px;
+	div {
+		font-style: 10px;
+	}
+}
+
+.hello {
+	background-color: rgba(128, 0, 128, 0.589);
+	width: 500px;
+}
+
+.hello h1 {
+	align-items: center;
+	text-align: center;
+}
+
+// ctrl+alt+2
+.block__container {
+	background-color: #010101;
+}
+.block__title {
+	background-color: #eee;
+}
+.block__text {
+	background-color: #eee;
+	font-size: 18px;
+}
+
+// ctrl + alt + 1
+.block {
+	&__container {
+		background-color: #eee;
+	}
+
+	&__title {
+		background-color: darkgoldenrod;
+	}
+
+	&__text {
+		background-color: #eee;
+	}
+}
+
+.red {
+	color: red;
+}
+
+.section {
+	width: 100px;
+	height: auto;
+}
+.section__title {
+	font-size: 24px;
+}
+.section__text {
+	font-size: 18px;
+}

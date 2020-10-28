@@ -1,0 +1,30 @@
+{
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"files.associations": {
+		"*.kit": "html"
+	},
+	"window.zoomLevel": 0,
+	"editor.renderControlCharacters": true,
+	"workbench.colorTheme": "Space Ocean Kit Refined",
+	"workbench.iconTheme": "material-icon-theme",
+	"files.autoSave": "afterDelay",
+	"editor.tabSize": 3,
+	"editor.detectIndentation": false,
+	"editor.hover.enabled": false,
+	"editor.mouseWheelZoom": true,
+	"workbench.editor.closeEmptyGroups": false,
+	"editor.formatOnSave": true,
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"autoprefix": "last 5 versions",
+			"extensionName": ".css",
+			"savePath": "css"
+		}
+	],
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": "boundary",
+	"vscodeGoogleTranslate.preferredLanguage": "Russian",
+	"CSSNavigation.alsoSearchDefinitionsInStyleTag": true,
+}

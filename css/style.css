@@ -1,0 +1,69 @@
+header {
+  background-color: #fff;
+}
+
+h1 {
+  color: lightblue;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-style: 10px;
+}
+
+.hello {
+  background-color: rgba(128, 0, 128, 0.589);
+  width: 500px;
+}
+
+.hello h1 {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.block__container {
+  background-color: #010101;
+}
+
+.block__title {
+  background-color: #eee;
+}
+
+.block__text {
+  background-color: #eee;
+  font-size: 18px;
+}
+
+.block__container {
+  background-color: #eee;
+}
+
+.block__title {
+  background-color: darkgoldenrod;
+}
+
+.block__text {
+  background-color: #eee;
+}
+
+.red {
+  color: red;
+}
+
+.section {
+  width: 100px;
+  height: auto;
+}
+
+.section__title {
+  font-size: 24px;
+}
+
+.section__text {
+  font-size: 18px;
+}
